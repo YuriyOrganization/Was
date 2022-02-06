@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TableIDText_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: ce4f77156b433564390886db16abe4c1, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 19307163226112
+    m_Localized: The game takes place in the fictional world of Lornerius, a land
+      of abundance and extraordinarily beautiful nature.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37826999291904
+    m_Localized: Good luck!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37758883794944
+    m_Localized: To get out of the forest, she has to use her ability to survive
+      in unpredictable situations.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37746569318400
+    m_Localized: Alas, she got lost, since they never went deep into the forest with
+      her father.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37733818634240
+    m_Localized: In this forest, she met wolves and many other dangers.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37554201759744
+    m_Localized: She got ready early in the morning, took all the essentials, and
+      went into the forest.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37537625870336
+    m_Localized: And then one day, when Isabella grew up, she decided to go on a
+      hike for adventure and new sensations.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37524170543104
+    m_Localized: A symbol of agility and perfection.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37508165079040
+    m_Localized: They bought boots at the market, and found a mask at home from some
+      children's masquerade, which soon became its symbol.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37326232948736
+    m_Localized: Mom, seeing her daughter's successes, sewed her a beautiful raincoat.
+      Her bow was purple.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37307413106688
+    m_Localized: On the First Outing, she shot one hare and went on to become an
+      accomplished hunter.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37292439441408
+    m_Localized: The father took the bow and began to teach the girl to shoot. She
+      quickly learned and soon they decided to go hunting in the forest.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37208024879104
+    m_Localized: And then one day she got tired of the usual walks, she wanted to
+      hunt, her parents approved this idea.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37181583986688
+    m_Localized: She knew how to find a common language with everyone.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37123568373760
+    m_Localized: Isabella was brave and strong.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36942307332096
+    m_Localized: Isabella's childhood was carefree; she often walked with friends
+      in the woods and dreamed of adventure.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36938314354688
+    m_Localized: Isabella often loved to be with him. Mom was busy all the time,
+      so raising her daughter. the father was engaged the father was engaged.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36934589812736
+    m_Localized: Isabella was born into a poor family. Isabella's mother, Margot,
+      was a seamstress who sewed clothes for the entire village.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36931033042944
+    m_Localized: The village where Isabella was born is called Siren.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43034429034496
+    m_Localized: Richard, the girl's father, was a hunter and a good archer, and
+      worked in a gun shop.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
